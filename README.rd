@@ -15,4 +15,6 @@ git checkout bug-fix
 git merge master
 git add README.rd
 git commit -m "Commit 5"
+git add README.rd
+git commit -m "Commit 6"
 
