@@ -34,3 +34,5 @@ git commit -m "Commit 10"
 git merge bug-fix
 git add README.rd
 git commit -m "Commit 13"
+git add README.rd
+git commit -m "Commit 14"
