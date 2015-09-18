@@ -26,3 +26,5 @@ git add README.rd
 git commit -m "Commit 6"
 git add README.rd
 git commit -m "Commit 11"
+git add README.rd
+git commit -m "Commit 12"
